@@ -19,7 +19,7 @@ Lenguajes, tecnología y frameworks utilizados en el desarrollo
 Screenshots o enlace a la vista previa del trabajo finalizado
 
 ## Instalación
-Instrucciones para otros desarrolladores sobre cómo instalar y ejecutar tu código en su entorno local.
+Instrucciones para otros desarrolladores sobre cómo instalar y ejecutar tu código en su 
 
 ## Licencia
 [MIT](https://choosealicense.com/licenses/mit/)
