@@ -1,0 +1,77 @@
+:root {
+    --colorbg: white;
+}
+html {
+    box-sizing: border-box;
+    font-size: 62.5%;
+}
+
+*,
+*:before,
+*:after {
+    box-sizing: inherit;
+}
+
+body {
+    font-size: 1.6rem;
+    background-color: var(--colorbg);
+}
+a {
+    text-decoration: none;
+}
+.header-holder .tittle h1{
+    text-align: center;
+}
+.image img {
+    display: block;
+    margin: auto;
+    max-width: 250px;
+    height: 250px;
+    border-radius: 50%;
+    padding: 1rem;
+}
+.main-content .principal-content p  {
+    text-align: center;
+    margin-left: 300px;
+    margin-right: 300px;
+}
+.links {
+    display: block;
+    margin-top: 10px;
+    margin-left: 400px;
+    margin-right: 400px;
+    text-align:  center;
+}
+.linkedIn {
+    background-color: #80A9FF;  
+    padding: 1rem;
+    margin-bottom: 5px;
+    
+    
+}
+.linkedIn a  {
+    color: blue;
+}
+.Trabajos,
+.Email,
+.Website {
+    background-color: #FFBF98;  
+    padding: 1rem;
+    margin-bottom: 5px;
+}
+.Trabajos a,
+.Email a,
+.Website a {
+    color: #FF731E;
+}
+
+.ftr-div {
+    display: flex;
+    justify-content: center;
+    margin: 30px;
+}
+.ftr-div img {
+    width: 50px;
+    height: 50px;
+    margin: 1rem;
+}
