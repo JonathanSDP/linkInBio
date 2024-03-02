@@ -13,13 +13,14 @@ Tu tarea es replicar el diseño de la imagen de referencia que se encuentra deba
 Este desafío no solo busca evaluar tu habilidad técnica, sino también tu capacidad para replicar y mejorar un diseño existente.  ¡Buena suerte!
 
 ## Stack utilizado
-Lenguajes, tecnología y frameworks utilizados en el desarrollo
+html, css
 
 ## Screenshots y vista previa
-Screenshots o enlace a la vista previa del trabajo finalizado
+![image](https://github.com/JonathanSDP/linkInBio/assets/108489323/5d6ff722-f1af-45b1-a90e-2437c13a5081)
+
 
 ## Instalación
-Instrucciones para otros desarrolladores sobre cómo instalar y ejecutar tu código en su 
+git clone https://github.com/JonathanSDP/linkInBio.git
 
 ## Licencia
 [MIT](https://choosealicense.com/licenses/mit/)
